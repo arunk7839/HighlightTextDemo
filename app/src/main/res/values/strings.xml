@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HighlightTextDemo</string>
+    <string name="speak_text">SPEAK TEXT</string>
+    <string name="stop">STOP</string>
+    <string name="text_to_speech">Text To Speech</string>
+
+</resources>
